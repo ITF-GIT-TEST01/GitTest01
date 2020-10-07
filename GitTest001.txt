@@ -1,11 +1,11 @@
-//Gitテスト用ファイル
+//Gitテスト用ファイル001
 public string Test001(string para1){
     var test = "";
     
     if(para1 == string.Empty){
-    	test = "EMP!";
-
+    	test = "TEST001";
     }
+
     return test;
 
 }
