@@ -1,0 +1,11 @@
+//Gitテスト用ファイル
+public string Test001(string para1){
+    var test = "";
+    
+    if(para1 == string.Empty){
+    	test = "EMP!";
+
+    }
+    return test;
+
+}
