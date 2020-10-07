@@ -1,0 +1,10 @@
+//Gitテスト用ファイル002
+public string Test002(string para1){
+    var test = "";
+    
+    if(para1 == string.Empty){
+    	test = "TEST002";
+    }
+
+    return test;
+}
