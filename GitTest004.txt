@@ -2,7 +2,7 @@
 public string Test004(string para1){
     var test = "";
     
-    if(para1 == string.Empty){
+    if(para1 == "4"){
     	test = "TEST004";
     }
 
