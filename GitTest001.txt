@@ -2,10 +2,15 @@
 public string Test001(string para1){
     var test = "";
     
-    if(para1 == string.Empty){
-    	test = "TEST001";
-    }
-
+    swicth(para1){
+        case: string.Empty
+            test = "TEST001";
+            break;
+        default:
+            test = "TEST005";
+            break;
+    } 
+    
     return test;
 
 }
