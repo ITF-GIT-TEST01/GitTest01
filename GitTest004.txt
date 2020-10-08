@@ -4,6 +4,8 @@ public string Test004(string para1){
     
     if(para1 == "4"){
     	test = "TEST004";
+    }else{
+        test = "444444";
     }
 
     return test;
