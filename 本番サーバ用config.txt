@@ -1,0 +1,4 @@
+本番サーバ動作環境用の設定
+XXXXXXX 
+YYYYY
+ZZZZZZ
